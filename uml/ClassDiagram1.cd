@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="oop.model.Human">
+    <Position X="4.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAEAAEABAAAAAAAgAAAAI=</HashCode>
+      <FileName>model\Human.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oop.model.Student">
+    <Position X="0.75" Y="4.5" Width="5.25" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>model\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oop.model.Teacher">
+    <Position X="6.25" Y="4.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>model\Teacher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oop.repository.SchoolCitizens">
+    <Position X="9.75" Y="7.25" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAgCAAAAAAAAAAAAAAAAAAAAgAAAACAAA=</HashCode>
+      <FileName>repository\SchoolCitizens.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="students" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

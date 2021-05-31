@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>grprj_01_02_01_Ember_Tanar_Diak_WPF</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="images\BukfencBela.jpg" />
+    <None Remove="images\HumanHelga.jpg" />
+    <None Remove="images\JelentkezoJanos.jpg" />
+    <None Remove="images\JeletkezkoJanos.jpg" />
+    <None Remove="images\MatekMiklos.jpg" />
+    <None Remove="images\StreberSzandra.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="images\BukfencBela.jpg" />
+    <Resource Include="images\HumanHelga.jpg" />
+    <Resource Include="images\JelentkezoJanos.jpg" />
+    <Resource Include="images\MatekMiklos.jpg" />
+    <Resource Include="images\StreberSzandra.jpg" />
+  </ItemGroup>
+
+</Project>
