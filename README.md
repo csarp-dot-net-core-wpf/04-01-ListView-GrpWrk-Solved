@@ -1,6 +1,6 @@
 # 04-01-ListView-GrpWrk-Tmp
 Példakód
-# wpf-prj-01
+# 04-01-prj-ListView-solved
 ## Diákok kiválasztása
 Csoportmunka gyakorlás a következő WPF alkalmazás minta alapján.  
 ### WPF alkalmazás minta
